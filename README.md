@@ -1,4 +1,6 @@
 # Comparative Sales Analysis Power BI report
 
-In this project, I have created a report on Microsoft Power BI for data collected from source: https://youtu.be/X7DsnK5bD-0.
-The report gives insights into the various Sales and its measures like Category, Product Name, Month etc.
+This is a data visualization project in Microsoft PowerBI. I have imported and analyzed dataset from Excel to PowerBI and created a dashboard by developing page layouts, navigations, and designs to provide key insights and analysis about product sales across various product types, months dates.
+
+The data I used is collected from source: https://youtu.be/X7DsnK5bD-0.
+
