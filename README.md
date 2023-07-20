@@ -7,3 +7,6 @@ The data I used is collected from source: https://youtu.be/X7DsnK5bD-0.
 
 ## Overview of Dashboard
 ![SalesAnalysis_PowerBI](https://user-images.githubusercontent.com/33488566/224523219-927d93a7-6f89-4d7a-ad9d-3bb3d6a961f4.PNG)
+
+CY Sale: Current year sale
+PY Sale: Previous Year Sale
